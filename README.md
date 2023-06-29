@@ -1,4 +1,2 @@
-# DMM WEBCAMPコンテンツ【HTML/CSSを学ぼう】
-DMM WEBCAMPの学習コンテンツHTML/CSSを学ぼうの研修課題です。
-## 使い方
-html/cssファイルのため、PCのブラウザで実行できます。
+#研修課題添付させていただきます。
+#omikuji.js　ファイルにて閲覧可能です。
